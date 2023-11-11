@@ -1,0 +1,15 @@
+{
+  "name": "coffee-with-backend",
+  "version": "1.0.0",
+  "description": "learning backend from scratch",
+  "types": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "yadnyesh khotre",
+  "license": "ISC"
+}
